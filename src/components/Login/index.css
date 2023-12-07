@@ -1,0 +1,22 @@
+.Form{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    padding: 20px;
+}
+ul{
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+}
+.Data1{
+    color:red;
+    font-family:"bree serif";
+    font-weight:bold;
+    font-size:30px;
+    text-align:center;
+}
+.loader{
+    margin-top:50px;
+    text-align:center;
+}
